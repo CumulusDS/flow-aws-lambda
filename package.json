@@ -1,6 +1,6 @@
 {
-  "name": "flow-aws-lambda",
-  "version": "1.0.6",
+  "name": "@cumulusds/flow-aws-lambda",
+  "version": "1.0.0",
   "description": "Flow types for AWS Lambda functions",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yarax/flow-aws-lambda.git"
+    "url": "git+https://github.com/cumulusds/flow-aws-lambda.git"
   },
   "author": "Roman Krivtsov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yarax/flow-aws-lambda/issues"
+    "url": "https://github.com/cumulusds/flow-aws-lambda/issues"
   },
-  "homepage": "https://github.com/yarax/flow-aws-lambda#readme"
+  "homepage": "https://github.com/cumulusds/flow-aws-lambda#readme"
 }
